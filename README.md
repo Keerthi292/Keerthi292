@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+MCA Graduate  | Passionate about Web developer and Frontend developer. </br>
+Passionate about Building Scalable Applications and Solving Real-World Problems.
 <!--
 **Keerthi292/Keerthi292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
